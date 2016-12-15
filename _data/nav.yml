@@ -1,8 +1,8 @@
 - name: Kom i gang
   path: kom-i-gang
   section_id: kom-i-gang
-- name: Book bane
-  path: book
+- name: Bestill bane
+  path: bestill
   section_id: book
 - name: Nyheter
   path: blog/
