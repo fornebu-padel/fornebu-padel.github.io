@@ -16,10 +16,6 @@ info:
   - title: Utstyr
     desc: Hva slags utstyr trenger jeg for å spille padel?
     url: /utstyr
-  - title: Bestill bane
-    desc: Det er lett å bestille baner hos Fornebu Padel
-    url: /bestill
-
 ---
 
 <script type="text/javascript">
@@ -75,7 +71,7 @@ info:
 <div class='row'>
   {% for info in page.info %}
     <div class='medium-3 large-3 columns'>
-      <div class='fadein mod modIconText' data-delay='{{ 200 | times:forloop.index0 }}'>
+      <div class='mod modIconText'>
         <a href="{{info.url}}">
           <div class='icon-text-circle info_box'>
             <h3>{{info.title}}</h3>
@@ -85,6 +81,16 @@ info:
       </div>
     </div>
   {% endfor %}
+    <div class='medium-3 large-3 columns'>
+      <div class='mod modIconText'>
+        <a href="https://www.matchi.se/facilities/pdlcenter" target="_blank">
+          <div class='icon-text-circle info_box'>
+            <h3>Bestill bane</h3>
+            <p>Det er lett å bestille baner hos Fornebu Padel</p>
+          </div>
+        </a>
+      </div>
+    </div>
 </div>
 
 <div class='two spacing'></div>
