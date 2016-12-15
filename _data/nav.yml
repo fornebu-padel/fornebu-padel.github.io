@@ -1,19 +1,15 @@
 - name: Kom i gang
-  path: kom-i-gang.html
+  path: kom-i-gang
   section_id: kom-i-gang
 - name: Book bane
-  path: book-bane.html
-  section_id: book-bane
-- name: Fasiliteter
-  path: fasiliteter.html
-  section_id: fasiliteter
+  path: book
+  section_id: book
 - name: Nyheter
   path: blog/
   section_id: blog
 - name: Kontakt oss
-  path: kontakt-oss.html
+  path: kontakt-oss
   section_id: kontakt-oss
 - name: Hvor er vi
-  path: hvor-er-vi.html
+  path: hvor-er-vi
   section_id: hvor-er-vi
-

@@ -1,0 +1,8 @@
+.icon-text-circle.info_box {
+	padding: 20px;
+}
+
+.icon-text-circle.info_box:hover {
+	background-color: #F9CE06;
+	color: #fff;
+}
