@@ -1,3 +1,24 @@
+body {
+	counter-reset: item;
+}
+
+ol#kom-i-gang {
+	margin-left: 0;
+    padding-right: 0;
+	list-style: none;
+}
+
+ol#kom-i-gang li {
+   counter-increment: item;
+}
+
+ol#kom-i-gang li:before {
+   content: counter(item);
+   color: #F9CE06;
+   font-size: 4em;
+}
+
+
 .icon-text-circle.info_box {
 	padding: 20px;
 }
