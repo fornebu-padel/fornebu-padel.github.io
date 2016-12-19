@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: fornebupadel
 github_username: fornebu-padel
-matchi_fp_url: https://www.matchi.se/facilities/pdlcenter
+matchi_fp_url: https://www.matchi.se/facilities/fornebupadel
 
 # Build settings
 markdown: kramdown
