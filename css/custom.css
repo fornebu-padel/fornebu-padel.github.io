@@ -52,3 +52,12 @@ dl.kom-i-gang dt, dl.kom-i-gang dd {
 .youtube iframe {
 	height: 100% !important;
 }
+
+.two.spacing.utstyr-beskrivelse {
+	clear: both;
+}
+
+.utstyr-beskrivelse img {
+	float: left;
+	margin-right: 20px;
+}
