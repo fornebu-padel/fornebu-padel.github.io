@@ -1,23 +1,26 @@
-body {
+dl.kom-i-gang {
 	counter-reset: item;
 }
 
-ol#kom-i-gang {
-	margin-left: 0;
-    padding-right: 0;
-	list-style: none;
+dl.kom-i-gang dt {
+	position: relative;
+	padding-top: 21px;
+	font-size: 2em;
 }
 
-ol#kom-i-gang li {
-   counter-increment: item;
+dl.kom-i-gang dt:before {
+	content: counter(item);
+	counter-increment: item;
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #F9CE06;
+	font-size: 2em;
 }
 
-ol#kom-i-gang li:before {
-   content: counter(item);
-   color: #F9CE06;
-   font-size: 4em;
+dl.kom-i-gang dt, dl.kom-i-gang dd {
+	padding-left: 50px;
 }
-
 
 .icon-text-circle.info_box {
 	padding: 20px;
