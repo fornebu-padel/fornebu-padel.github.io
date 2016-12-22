@@ -61,3 +61,8 @@ dl.kom-i-gang dt, dl.kom-i-gang dd {
 	float: left;
 	margin-right: 20px;
 }
+
+div#instafeed img {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
