@@ -15,7 +15,7 @@ Fornebu Padel er åpent for spill!
 
 Vi er i gang og det er mulig å spille padel i Oslo-området! Banene er klare og de ser kjempefine ut. Vi starter med det vi kaller en lanseringsperiode frem mot (planlagt) 23.1.2017. To av tre baner vil være mulig å bestille i denne perioden. Garderoben er ikke helt klar enda og frem mot 23.1.2017 må dere bruke [hovedinngangen til Golfsenteret](/hvor-er-vi). Men for mange av dere som er keene på å komme igang, syns vi det er synd og ikke gi dere muligheten til å spille når banene er klare.
 
-I denne lanseringsperioden kjører vi med en timepris på 300 NOK (for banen). Når alt er klart i lokalet vil standardpris være 400 NOK / time (dvs. typisk 100 NOK / person / time). [Se åpningstider](/lansering/2016/12/21/apningstider.html).
+I denne lanseringsperioden kjører vi med en timepris på 300 NOK (for banen). Når alt er klart i lokalet vil standardpris være 440 NOK / time (dvs. typisk 100 NOK / person / time). [Se åpningstider](/lansering/2016/12/21/apningstider.html).
 
 <a href="https://www.matchi.se/facilities/fornebupadel" target="_blank">Det er nå åpent for å bestille baner</a>.
 
