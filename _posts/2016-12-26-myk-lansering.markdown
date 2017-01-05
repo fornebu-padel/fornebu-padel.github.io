@@ -19,7 +19,7 @@ I denne lanseringsperioden kjører vi med en timepris på 300 NOK (for banen). 
 
 <a href="https://www.matchi.se/facilities/fornebupadel" target="_blank">Det er nå åpent for å bestille baner</a>.
 
-Dere kan leie padelracketer i golfbutikken til 30 NOK / time. Racketer og baller er også til salgs. [Les mer om utstyr](/utstyr).
+Dere kan leie padelracketer i golfbutikken til 50 NOK / time. Racketer og baller er også til salgs. [Les mer om utstyr](/utstyr).
 
 Hvis dere lurer på reglene i padel, [se en liten oppsummering](/hva-er-padel).
 
