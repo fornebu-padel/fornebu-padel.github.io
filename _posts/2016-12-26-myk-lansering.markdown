@@ -6,9 +6,9 @@ categories: lansering
 tags:
 author: admin
 images:
- - images/fb-court-one.jpg
+  - images/fb-court-one.jpg
 excerpt:
- Fornebu Padel åpner med en myk lansering frem mot andre halvdel av januar. Fasilitetene jobbes fortsatt med men de flotte padelbanene er klare til spill. Lanseringspris på 300 NOK pr. bane for en times spill.
+  Fornebu Padel åpner med en myk lansering frem mot andre halvdel av januar. Fasilitetene jobbes fortsatt med men de flotte padelbanene er klare til spill. Lanseringspris på 300 NOK pr. bane for en times spill.
 ---
 
 Fornebu Padel er åpent for spill!

@@ -6,9 +6,10 @@ categories: lansering
 tags:
 author: admin
 images:
- - images/opening-hours.jpg
+  - images/opening-hours.jpg
 excerpt:
- Vi har litt spesielle åpningstider i juletiden og lanseringsperioden.
+  Vi har litt spesielle åpningstider i juletiden og lanseringsperioden.
+hide_post_images: true
 ---
 
 Frem mot mandag 23. januar følger vi åpningstidene til golfsenteret. Bruk inngangen til golfsenteret i denne perioden.

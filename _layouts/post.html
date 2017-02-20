@@ -2,13 +2,16 @@
 layout: blog
 ---
 
-
 <div class='mod modBlogPost big no_bg'>
+  {% unless page.hide_post_images %}
   <div class='images'>
     {% for image in page.images %}
-      <div class='image'><img alt="" src="{{site.url}}/{{image}}" /></div>
+      <div class='image'>
+        <img alt="" src="{{site.url}}/{{image}}" />
+      </div>
     {% endfor %}
   </div>
+  {% endunless %}
   <div class='content'>
     <p class='info'>
       <span>{{page.date | date: "%B %d, %Y" }}</span>
