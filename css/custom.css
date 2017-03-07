@@ -1,3 +1,11 @@
+.headline {
+	background-color: #0A2AAA;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+}
+
 dl.kom-i-gang {
 	counter-reset: item;
 }
