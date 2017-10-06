@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class='full'>
+  <div class='row'>
+    <div class='medium-12 columns'>
+      <h2>Fornebu Padel stige - ranking</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p><i>Ranking sist oppdatert 01.11.2017</i></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Posisjon</th>
+            <th>Lag</th>
+            <th>Klikk på lenke nedenfor til å utfordre</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in site.data.ladder_participants %}
+          <tr>
+            <td>{{forloop.index}}</td>
+            <td>{{item.team}}</td>
+            <td><a href='mailto:{{item.email}}?subject=Fornebu Padel stige utfordring&body=Hei, vi ønsker å utfordre dere til en padel kamp.....'>Utfordre {{item.first_names}}</a></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>

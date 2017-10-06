@@ -250,10 +250,10 @@ ul.shortcode-list i {
   color: #fff;
 }
 .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 28, 67, 0.8);
 }
 .contain-to-grid.shadowless .top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
-  background: #000;
+  background: #003399;
   color: #fff;
 }
 
