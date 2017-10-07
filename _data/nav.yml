@@ -10,13 +10,13 @@
 - name: Hvor er vi
   path: hvor-er-vi
   section_id: hvor-er-vi
-- name: Stige
-  path: stige
-  section_id: stige
-  children:
-    - name: Påmelding og regler
-      path: stige
-    - name: Stige / ranking
-      path: ranking
-    - name: Resultater
-      path: resultater
+# - name: Stige
+#   path: stige
+#   section_id: stige
+#   children:
+#     - name: Påmelding og regler
+#       path: stige
+#     - name: Stige / ranking
+#       path: ranking
+#     - name: Resultater
+#       path: resultater
