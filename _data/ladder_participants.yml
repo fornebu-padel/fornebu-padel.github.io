@@ -1,6 +1,9 @@
-- team: Fredrik Bach / Christian Ruud
-  email: fredrikbach@gmail.com,christianruud@yahoo.no
-  first_names: Fredrik og Christian
-- team: Kristofer Stahlberg / Bardia Salehi
-  email: kristofer.stahlberg@lexus.no,bardia_salehi84@hotmail.com
-  first_names: Kristofer og Bardia
+- team: Player 1 / Player 2
+  email: test@test.com,test@test.com
+  first_names: Player 1 and 2
+- team: Player 3 / Player 4
+  email: test@test.com,test@test.com
+  first_names: Player 3 and 4
+- team: Player 5 / Player 6
+  email: test@test.com,test@test.com
+  first_names: Player 5 and 6
