@@ -16,9 +16,10 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% for item in site.data.ladder_participants %}
+          {% assign ranked_participants = site.data.ladder_participants | sort: 'ranking' %}
+          {% for item in ranked_participants %}
           <tr>
-            <td>{{forloop.index}}</td>
+            <td>{{item.ranking}}</td>
             <td>{{item.team}}</td>
             <td><a href='mailto:{{item.email}}?subject=Fornebu Padel stige utfordring&body=Hei, vi ønsker å utfordre dere til en padel kamp.....'>Utfordre {{item.first_names}}</a></td>
           </tr>
