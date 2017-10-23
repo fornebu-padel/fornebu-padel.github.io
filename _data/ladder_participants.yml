@@ -1,120 +1,99 @@
 - team: Michael Geraghty / Fredrik Ask
   email: michael_ace18@yahoo.es,ask3@email.arizona.edu
   first_names: Michael og Fredrik
-  ranking: 1
 - team: Øystein Steiro jr / Joachim Bjerke
   email: steiro92@gmail.com,joachimbjerke@gmail.com
   first_names: Øystein og Joachim
-  ranking: 2
 - team: Christian Ruud / Kristofer Stahlberg 
   email: christianruud@yahoo.no,kristofer.stahlberg@lexus.no
   first_names: Christian og Kristofer
-  ranking: 3
 - team: Christopher Wroll Hagen / Tom Hauglund  
   email: christopher@giraffmedia.no,hauglund@hotmail.com
   first_names: Christopher og Tom
-  ranking: 4
-- team: Erling Tveit / Sebastian Lystad  
-  email: erlingos28@hotmail.com,sjlystad@gmail.com
-  first_names: Erling og Sebastian
-  ranking: 7
-- team: Nicolas Bjerke / Nils Andreas Schive  
-  email: nicholas.bjerke@soprasteria.com,nschive@gmail.com
-  first_names: Nicolas og Nils Andreas
-  ranking: 8
-- team: Mons Knutzon / Martin Brusletto  
-  email: monsknudtzon92@hotmail.com
-  first_names: Mons og Martin
-  ranking: 9
-- team: Andres Fernandez/Jaime Garzon 
-  email: andres.fpn@gmail.com,jaime.garzon@msspain.com
-  first_names: Andres og Jaime
-  ranking: 10
-- team: Simen Aukland / Knut Aukland
-  email: simen.aukland@gmail.com,knut.aukland@hotmail.com
-  first_names: Simen og Knut
-  ranking: 14
-- team: Kjell Anders Kristiansen / Jan Fjeller
-  email: kjelanders@gmail.com,jfjeller@online.no
-  first_names: Kjell Anders og Jan
-  ranking: 23
-- team: Geir Juuhl-Sivertsen / Morten Sivertsen
-  email: gjs@aquafence.com,mortensivert@hotmail.com
-  first_names: Geir og Morten
-  ranking: 6
-- team: Fredrik Ask Stensrud / Thor Mjør
-  email: Pintoholding@gmail.com,tm@npr.no
-  first_names: Fredrik og Thor
-  ranking: 12
-- team: Alexis Rodriguez / Manuel Alonso
-  email: alexis.mrd@gmail.com,manuelalonsoper@gmail.com
-  first_names: Alexis og Manuel
-  ranking: 16
 - team: Kristian Ødegaard / Viggo Bang-Hansen
   email: kristian@kr-o.com,vbh@schjodt.no
   first_names: Kristian og Viggo
-  ranking: 5
-- team: Adrián Cid Fernández / Alberto Sanz Borja
-  email: adricf11@gmail.com,adricf11@gmail.com
-  first_names: Adrián og Alberto
-  ranking: 18
-- team: Christian Dávila / Juan Arístegui
-  email: davila.7.90@gmail.com,jujo_arist@hotmail.com
-  first_names: Christian og Juan
-  ranking: 15
-- team: Mats Strand Ødven / Alexander Eikenes
-  email: Matsodven@me.com,Alexander.e@nemiforsikring.no
-  first_names: Mats og Alexander
-  ranking: 24
-- team: Javier Uruñuela / Adriana Carrion
-  email: javier.urunuela@pepsico.com,adrianacarrion@financa.es
-  first_names: Javier og Adriana
-  ranking: 20
-- team: Francisco Sanz / Alberto Martin
-  email: sanzencinas.fco@gmail.com,Alb.martin01@gmail.com
-  first_names: Francisco og Alberto
-  ranking: 19
-- team: Øyvind Welle / André Julseth
-  email: wellewelle@gmail.com,andrejulseth@icloud.com
-  first_names: Øyvind og André
-  ranking: 26
+- team: Geir Juuhl-Sivertsen / Morten Sivertsen
+  email: gjs@aquafence.com,mortensivert@hotmail.com
+  first_names: Geir og Morten
+- team: Erling Tveit / Sebastian Lystad  
+  email: erlingos28@hotmail.com,sjlystad@gmail.com
+  first_names: Erling og Sebastian
+- team: Nicolas Bjerke / Nils Andreas Schive  
+  email: nicholas.bjerke@soprasteria.com,nschive@gmail.com
+  first_names: Nicolas og Nils Andreas
+- team: Mons Knutzon / Martin Brusletto  
+  email: monsknudtzon92@hotmail.com
+  first_names: Mons og Martin
+- team: Andres Fernandez/Jaime Garzon 
+  email: andres.fpn@gmail.com,jaime.garzon@msspain.com
+  first_names: Andres og Jaime
 - team: Christian Dyvik / Jørgen Arnesen
   email: christian.dyvik@dnb.no,jorgen.arnesen@gmail.com
   first_names: Christian og Jørgen
-  ranking: 11
-- team: Fredrik Sandberg / Dirk Jacob Blaauw
-  email: Fredrik.Sandberg@clarksons.com,djb@platou.com
-  first_names: Fredrik og Dirk Jacob
-  ranking: 17
-- team: Jon Anders Matre / Edvard Hatle
-  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
-  first_names: Jon Anders og Edvard
-  ranking: 25
-- team: Jan Palm / Mette Degerstrøm
-  email: Jan-palm@online.no,Mdeger@online.no
-  first_names: Jan og Mette
-  ranking: 29
-- team: Javier Reyes Gomez / Cristo Hernandez Jacinto
-  email: durchi@gmail.com,cristohdezjacinto@hotmail.es
-  first_names: Javier og Cristo
-  ranking: 21
-- team: Marius Odland / Stefano Gilozzi
-  email: mariusodland@gmail.com,firestefano@libero.it
-  first_names: Marius og Stefano
-  ranking: 22
-- team: Fredrik Sannes / Rune Bjørsnøs
-  email: fredrik.sannes@gmail.com,rune.bjorsnos@gmail.com
-  first_names: Fredrik og Rune
-  ranking: 28
-- team: Maria Töllbäck Sannes / Maria Centelles
-  email: Mariatollback@hotmail.com,Centellescollmaria@gmail.com
-  first_names: Maria og Maria
-  ranking: 30
+- team: Fredrik Ask Stensrud / Thor Mjør
+  email: Pintoholding@gmail.com,tm@npr.no
+  first_names: Fredrik og Thor
 - team: Gunerius Pettersen / Espen Auensen
   email: guneriusp@hotmail.com,Eauensen@online.no
   first_names: Gunerius og Espen
-  ranking: 13
+- team: Simen Aukland / Knut Aukland
+  email: simen.aukland@gmail.com,knut.aukland@hotmail.com
+  first_names: Simen og Knut
+- team: Christian Dávila / Juan Arístegui
+  email: davila.7.90@gmail.com,jujo_arist@hotmail.com
+  first_names: Christian og Juan
+- team: Alexis Rodriguez / Manuel Alonso
+  email: alexis.mrd@gmail.com,manuelalonsoper@gmail.com
+  first_names: Alexis og Manuel
+- team: Fredrik Sandberg / Dirk Jacob Blaauw
+  email: Fredrik.Sandberg@clarksons.com,djb@platou.com
+  first_names: Fredrik og Dirk Jacob
+- team: Adrián Cid Fernández / Alberto Sanz Borja
+  email: adricf11@gmail.com,adricf11@gmail.com
+  first_names: Adrián og Alberto
+- team: Francisco Sanz / Alberto Martin
+  email: sanzencinas.fco@gmail.com,Alb.martin01@gmail.com
+  first_names: Francisco og Alberto
+- team: Javier Uruñuela / Adriana Carrion
+  email: javier.urunuela@pepsico.com,adrianacarrion@financa.es
+  first_names: Javier og Adriana
+- team: Javier Reyes Gomez / Cristo Hernandez Jacinto
+  email: durchi@gmail.com,cristohdezjacinto@hotmail.es
+  first_names: Javier og Cristo
+- team: Marius Odland / Stefano Gilozzi
+  email: mariusodland@gmail.com,firestefano@libero.it
+  first_names: Marius og Stefano
+- team: Kjell Anders Kristiansen / Jan Fjeller
+  email: kjelanders@gmail.com,jfjeller@online.no
+  first_names: Kjell Anders og Jan
+- team: Mats Strand Ødven / Alexander Eikenes
+  email: Matsodven@me.com,Alexander.e@nemiforsikring.no
+  first_names: Mats og Alexander
+- team: Jon Anders Matre / Edvard Hatle
+  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
+  first_names: Jon Anders og Edvard
+- team: Sander van der Harst / Patrick van der Harst
+  email: svdharst@outlook.com,pvdhduro@gmail.com
+  first_names: Sander og Patrick
+- team: Øyvind Welle / André Julseth
+  email: wellewelle@gmail.com,andrejulseth@icloud.com
+  first_names: Øyvind og André
 - team: Trond Granerud / Anne Solvang
   email: tg07@hotmail.com,annesolvang67@gmail.com
   first_names: Trond og Anne
-  ranking: 27
+- team: Fredrik Sannes / Rune Bjørsnøs
+  email: fredrik.sannes@gmail.com,rune.bjorsnos@gmail.com
+  first_names: Fredrik og Rune
+- team: Jan Palm / Mette Degerstrøm
+  email: Jan-palm@online.no,Mdeger@online.no
+  first_names: Jan og Mette
+- team: Maria Duro / Adriana Carrion
+  email: vdhduro@hotmail.com,vdhduro@hotmail.com
+  first_names: Maria og Adriana
+- team: Maria Töllbäck Sannes / Maria Centelles
+  email: Mariatollback@hotmail.com,Centellescollmaria@gmail.com
+  first_names: Maria og Maria
+- team: Rocio Ibanez Dupuy / Victor Carriles
+  email: rocioibanezdupuy@gmail.com,victor.carries@gmail.com
+  first_names: Rocio og Victor
