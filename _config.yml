@@ -21,6 +21,5 @@ exclude: [node_modules]
 
 # Gems
 
-# gems:
-#   - jekyll-redirect-from
-#   - jekyll-email-protect
+gems:
+  - jekyll-redirect-from
