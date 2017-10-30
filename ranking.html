@@ -20,7 +20,7 @@ layout: default
           <tr>
             <td>{{forloop.index}}</td>
             <td>{{item.team}}</td>
-            <td><a href='mailto:{{item.email}}?subject=Fornebu Padel stige utfordring&body=Hei, vi ønsker å utfordre dere til en padel kamp.....'>Utfordre {{item.first_names}}</a></td>
+            <td><a href='mailto:{{ item.email | encode_email }}?subject=Fornebu Padel stige utfordring&body=Hei, vi ønsker å utfordre dere til en padel kamp.....'>Utfordre {{item.first_names}}</a></td>
           </tr>
           {% endfor %}
         </tbody>
