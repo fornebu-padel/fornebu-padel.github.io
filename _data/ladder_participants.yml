@@ -66,6 +66,10 @@
   email: davila.7.90@gmail.com,jujo_arist@hotmail.com
   first_names: Christian og Juan
 
+- team: Francisco Sanz / Alberto Martin
+  email: sanzencinas.fco@gmail.com,Alb.martin01@gmail.com
+  first_names: Francisco og Alberto
+
 - team: Alexis Rodriguez / Manuel Alonso
   email: alexis.mrd@gmail.com,manuelalonsoper@gmail.com
   first_names: Alexis og Manuel
@@ -73,10 +77,6 @@
 - team: Fredrik Sandberg / Dirk Jacob Blaauw
   email: Fredrik.Sandberg@clarksons.com,djb@platou.com
   first_names: Fredrik og Dirk Jacob
-
-- team: Francisco Sanz / Alberto Martin
-  email: sanzencinas.fco@gmail.com,Alb.martin01@gmail.com
-  first_names: Francisco og Alberto
 
 - team: Javier Uruñuela / Adriana Carrion
   email: javier.urunuela@pepsico.com,adrianacarrion@financa.es
@@ -90,25 +90,25 @@
   email: mariusodland@gmail.com,firestefano@libero.it
   first_names: Marius og Stefano
 
+- team: Jon Anders Matre / Edvard Hatle
+  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
+  first_names: Jon Anders og Edvard
+
 - team: Kjell Anders Kristiansen / Jan Fjeller
   email: kjelanders@gmail.com,jfjeller@online.no
   first_names: Kjell Anders og Jan
+
+- team: Øyvind Welle / André Julseth
+  email: wellewelle@gmail.com,andrejulseth@icloud.com
+  first_names: Øyvind og André
 
 - team: Mats Strand Ødven / Alexander Eikenes
   email: Matsodven@me.com,Alexander.e@nemiforsikring.no
   first_names: Mats og Alexander
 
-- team: Jon Anders Matre / Edvard Hatle
-  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
-  first_names: Jon Anders og Edvard
-
 - team: Sander van der Harst / Patrick van der Harst
   email: svdharst@outlook.com,pvdhduro@gmail.com
   first_names: Sander og Patrick
-
-- team: Øyvind Welle / André Julseth
-  email: wellewelle@gmail.com,andrejulseth@icloud.com
-  first_names: Øyvind og André
 
 - team: Trond Granerud / Anne Solvang
   email: tg07@hotmail.com,annesolvang67@gmail.com
@@ -153,3 +153,15 @@
 - team: Birger Søiland / Espen Borgir Christophersen
   email: birger.soiland@gmail.com,eborgir@hotmail.com
   first_names: Birger og Espen
+
+- team: Cristian Soto / Rene Berntsen Soto
+  email: c-soto@online.no,Rsoto_01@hotmail.com
+  first_names: Christian og Rene
+
+- team: Cristian Soto / Jan Kokkim
+  email: c-soto@online.no,Jan.kokkim@nordea.com
+  first_names: Christian og Jan
+
+- team: Oskar Flyman / Emmanuel Skånseng
+  email: Oskarflyman@gmail.com,Emmanuelskan@gmail.com
+  first_names: Oskar og Emmanuel
