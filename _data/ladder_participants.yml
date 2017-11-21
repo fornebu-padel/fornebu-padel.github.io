@@ -78,6 +78,14 @@
   email: Fredrik.Sandberg@clarksons.com,djb@platou.com
   first_names: Fredrik og Dirk Jacob
 
+- team: Jon Anders Matre / Edvard Hatle
+  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
+  first_names: Jon Anders og Edvard
+
+- team: Øyvind Welle / André Julseth
+  email: wellewelle@gmail.com,andrejulseth@icloud.com
+  first_names: Øyvind og André
+
 - team: Javier Uruñuela / Adriana Carrion
   email: javier.urunuela@pepsico.com,adrianacarrion@financa.es
   first_names: Javier og Adriana
@@ -86,21 +94,9 @@
   email: durchi@gmail.com,cristohdezjacinto@hotmail.es
   first_names: Javier og Cristo
 
-- team: Marius Odland / Stefano Gilozzi
-  email: mariusodland@gmail.com,firestefano@libero.it
-  first_names: Marius og Stefano
-
-- team: Jon Anders Matre / Edvard Hatle
-  email: Jon.anders.matre@gmail.com,E.hatle@platoumarkets.com
-  first_names: Jon Anders og Edvard
-
 - team: Kjell Anders Kristiansen / Jan Fjeller
   email: kjelanders@gmail.com,jfjeller@online.no
   first_names: Kjell Anders og Jan
-
-- team: Øyvind Welle / André Julseth
-  email: wellewelle@gmail.com,andrejulseth@icloud.com
-  first_names: Øyvind og André
 
 - team: Mats Strand Ødven / Alexander Eikenes
   email: Matsodven@me.com,Alexander.e@nemiforsikring.no
@@ -126,6 +122,10 @@
   email: vdhduro@hotmail.com,vdhduro@hotmail.com
   first_names: Maria og Adriana
 
+- team: Egil Andre Berglund / Martin Siem
+  email: eaberglund@nordisk.no,martin.siem@m3management.no
+  first_names: Egil Andre og Martin
+
 - team: Maria Töllbäck Sannes / Maria Centelles
   email: Mariatollback@hotmail.com,Centellescollmaria@gmail.com
   first_names: Maria og Maria
@@ -146,10 +146,6 @@
   email: Alexander.jorgensen@gmail.com,sindre@nettbureau.no
   first_names: Alexander og Sindre
 
-- team: Egil Andre Berglund / Martin Siem
-  email: eaberglund@nordisk.no,martin.siem@m3management.no
-  first_names: Egil Andre og Martin
-
 - team: Birger Søiland / Espen Borgir Christophersen
   email: birger.soiland@gmail.com,eborgir@hotmail.com
   first_names: Birger og Espen
@@ -165,3 +161,7 @@
 - team: Oskar Flyman / Emmanuel Skånseng
   email: Oskarflyman@gmail.com,Emmanuelskan@gmail.com
   first_names: Oskar og Emmanuel
+
+- team: Mathias Wexels / William Hatle
+  email: Omathias.wexels@gmail.com,williamhatle@yahoo.no
+  first_names: Mathias og William
