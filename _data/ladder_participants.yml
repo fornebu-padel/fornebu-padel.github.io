@@ -10,6 +10,10 @@
   email: christianruud@yahoo.no,kristofer.stahlberg@lexus.no
   first_names: Christian og Kristofer
 
+- team: Erling Tveit / Sebastian Lystad  
+  email: erlingos28@hotmail.com,sjlystad@gmail.com
+  first_names: Erling og Sebastian
+
 - team: Christopher Wroll Hagen / Tom Hauglund  
   email: christopher@giraffmedia.no,hauglund@hotmail.com
   first_names: Christopher og Tom
@@ -21,10 +25,6 @@
 - team: Geir Juuhl-Sivertsen / Morten Sivertsen
   email: gjs@aquafence.com,mortensivert@hotmail.com
   first_names: Geir og Morten
-
-- team: Erling Tveit / Sebastian Lystad  
-  email: erlingos28@hotmail.com,sjlystad@gmail.com
-  first_names: Erling og Sebastian
 
 - team: Nicolas Bjerke / Nils Andreas Schive  
   email: nicholas.bjerke@soprasteria.com,nschive@gmail.com
@@ -54,6 +54,10 @@
   email: guneriusp@hotmail.com,Eauensen@online.no
   first_names: Gunerius og Espen
 
+- team: Øyvind Welle / André Julseth
+  email: wellewelle@gmail.com,andrejulseth@icloud.com
+  first_names: Øyvind og André
+
 - team: Fredrik Ask Stensrud / Thor Mjør
   email: Pintoholding@gmail.com,tm@npr.no
   first_names: Fredrik og Thor
@@ -69,10 +73,6 @@
 - team: Francisco Sanz / Alberto Martin
   email: sanzencinas.fco@gmail.com,Alb.martin01@gmail.com
   first_names: Francisco og Alberto
-
-- team: Øyvind Welle / André Julseth
-  email: wellewelle@gmail.com,andrejulseth@icloud.com
-  first_names: Øyvind og André
 
 - team: Alexis Rodriguez / Manuel Alonso
   email: alexis.mrd@gmail.com,manuelalonsoper@gmail.com
@@ -90,13 +90,13 @@
   email: javier.urunuela@pepsico.com,adrianacarrion@financa.es
   first_names: Javier og Adriana
 
-- team: Javier Reyes Gomez / Cristo Hernandez Jacinto
-  email: durchi@gmail.com,cristohdezjacinto@hotmail.es
-  first_names: Javier og Cristo
-
 - team: Kjell Anders Kristiansen / Jan Fjeller
   email: kjelanders@gmail.com,jfjeller@online.no
   first_names: Kjell Anders og Jan
+
+- team: Javier Reyes Gomez / Cristo Hernandez Jacinto
+  email: durchi@gmail.com,cristohdezjacinto@hotmail.es
+  first_names: Javier og Cristo
 
 - team: Mats Strand Ødven / Alexander Eikenes
   email: Matsodven@me.com,Alexander.e@nemiforsikring.no
@@ -126,6 +126,10 @@
   email: eaberglund@nordisk.no,martin.siem@m3management.no
   first_names: Egil Andre og Martin
 
+- team: René Wallner / Felix Expósito
+  email: rene2408@yahoo.com,f_expo@hotmail.com
+  first_names: René og Felix
+
 - team: Maria Töllbäck Sannes / Maria Centelles
   email: Mariatollback@hotmail.com,Centellescollmaria@gmail.com
   first_names: Maria og Maria
@@ -134,10 +138,6 @@
   email: rocioibanezdupuy@gmail.com,victor.carries@gmail.com
   first_names: Rocio og Victor
 
-- team: René Wallner / Felix Expósito
-  email: rene2408@yahoo.com,f_expo@hotmail.com
-  first_names: René og Felix
-
 - team: Oscar Nilsson / Marcus Wahlström
   email: oscarn86@gmail.com,Marcuswahlstrom@hotmail.com
   first_names: Oscar og Marcus
@@ -145,6 +145,14 @@
 - team: Mathias Wexels / William Hatle
   email: Omathias.wexels@gmail.com,williamhatle@yahoo.no
   first_names: Mathias og William
+
+- team: Cristian Soto / Jan Kokkim
+  email: c-soto@online.no,Jan.kokkim@nordea.com
+  first_names: Christian og Jan
+
+- team: Espen Hordnes / Daniel Andersson
+  email: E.hordnes@privatmegleren.no,da@bellatoscana.no
+  first_names: Espen og Daniel
 
 - team: Alexander Jørgensen / Sindre Øverås
   email: Alexander.jorgensen@gmail.com,sindre@nettbureau.no
@@ -158,14 +166,6 @@
   email: c-soto@online.no,Rsoto_01@hotmail.com
   first_names: Christian og Rene
 
-- team: Cristian Soto / Jan Kokkim
-  email: c-soto@online.no,Jan.kokkim@nordea.com
-  first_names: Christian og Jan
-
 - team: Oskar Flyman / Emmanuel Skånseng
   email: Oskarflyman@gmail.com,Emmanuelskan@gmail.com
   first_names: Oskar og Emmanuel
-
-- team: Espen Hordnes / Daniel Andersson
-  email: E.hordnes@privatmegleren.no,da@bellatoscana.no
-  first_names: Espen og Daniel
