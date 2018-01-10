@@ -11,12 +11,16 @@
   path: hvor-er-vi
   section_id: hvor-er-vi
 - name: Stige
-  path: stige
-  section_id: stige
   children:
     - name: Påmelding og regler
       path: stige
     - name: Stige / ranking
-      path: ranking
+      path: stige/ranking
     - name: Resultater
-      path: resultater
+      path: stige/resultater
+# - name: Gruppespill
+#   children:
+#     - name: Påmelding og regler
+#       path: gruppespill
+#     - name: Resultater
+#       path: gruppespill/resultater
