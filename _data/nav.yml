@@ -18,9 +18,9 @@
       path: stige/ranking
     - name: Resultater
       path: stige/resultater
-# - name: Gruppespill
-#   children:
-#     - name: Påmelding og regler
-#       path: gruppespill
-#     - name: Resultater
-#       path: gruppespill/resultater
+- name: Gruppespill
+  children:
+    - name: Påmelding og regler
+      path: gruppespill
+    - name: Resultater
+      path: gruppespill/resultater
