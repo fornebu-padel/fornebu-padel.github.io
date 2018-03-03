@@ -10,14 +10,6 @@
 - name: Hvor er vi
   path: hvor-er-vi
   section_id: hvor-er-vi
-- name: Stige
-  children:
-    - name: Påmelding og regler
-      path: stige
-    - name: Stige / ranking
-      path: stige/ranking
-    - name: Resultater
-      path: stige/resultater
 - name: Gruppespill
   children:
     - name: Påmelding og regler
