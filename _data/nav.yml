@@ -10,9 +10,6 @@
 - name: Hvor er vi
   path: hvor-er-vi
   section_id: hvor-er-vi
-- name: Gruppespill
-  children:
-    - name: Påmelding og regler
-      path: gruppespill
-    - name: Resultater
-      path: gruppespill/resultater
+- name: Liga
+  path: liga
+  section_id: liga
