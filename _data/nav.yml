@@ -7,6 +7,11 @@
 - name: Kontakt oss
   path: kontakt-oss
   section_id: kontakt-oss
+  children:
+    - name: Fornebu Padel
+      path: kontakt-oss
+    - name: Trener
+      path: trener
 - name: Hvor er vi
   path: hvor-er-vi
   section_id: hvor-er-vi
