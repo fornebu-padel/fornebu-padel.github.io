@@ -29,7 +29,9 @@ info:
     get: 'user',
     userId: 'self',
     accessToken: '4259037020.1677ed0.4a4002a88aec4c67a1e3100221a1b17e',
-    clientId: 'd67461a7bf0b40d2a1c40e1a83cd3cf2'
+    clientId: 'd67461a7bf0b40d2a1c40e1a83cd3cf2',
+    limit: '12',
+    sortBy: 'most-recent'
   });
   feed.run();
 </script>
@@ -40,18 +42,10 @@ info:
 
   <div class='row'>
     <div class='large-9 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          {% for slide in page.slides %}
-            <div class='slide'>
-              <img alt="" src="{{slide.bg}}" />
-              <div class='caption'>
-                <h2>{{slide.tagline}}</h2>
-              </div>
-            </div>
-          {% endfor %}
+        <h1>Spill padel i Oslo-området</h1>
+        <div class="youtube">
+          <iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/_zPcHjPPRvM?autoplay=1&mute=1&controls=0&loop=1&modestbranding=1&origin=http://fornebupadel.no" frameborder="0"></iframe>
         </div>
-      </div>
     </div>
     <div class='large-3 columns'>
       <h3>Åpningstider</h3>
@@ -61,7 +55,7 @@ info:
       <p>Mellom 16:00 og 22:00 koster det NOK 400 for å leie en bane en time</p>
       <p>Andre tider i ukedagene koster det NOK 320</p>
       <h4>Helger</h4>
-      <p>I helgene koster det NOK 320 for å leie en bane en time</p>
+      <p>I helgene koster det NOK 400 for å leie en bane en time</p>
       <h3>Utstyr</h3>
       <p>Padelutstyr (racketer og baller) kan leies eller kjøpes i hallen.</p>
     </div>
@@ -76,7 +70,7 @@ info:
   <div class='row'>
     <div class='large-12 columns'>
       <p style='font-size: 1.5rem; font-style: italic;'>
-      Nå er det mulig å spille padel i Oslo-området. Fornebu Padel tilbyr tre innendørs padelbaner av høyeste kvalitet til utleie. Du trenger ingen erfaring eller spesialutstyr for å prøve denne sporten som tar deler av Europa med storm. Vi tilbyr racketer til billig utleie og du kan spille med vanlig idrettsklær. <a href="/kom-i-gang">Prøv padel i dag</a>!
+      Fornebu Padel tilbyr tre innendørs padelbaner av høyeste kvalitet til utleie. Du trenger ingen erfaring eller spesialutstyr for å prøve denne sporten som tar Europa med storm. Vi tilbyr racketer til billig utleie og du kan spille med vanlig idrettsklær. <a href="/kom-i-gang">Prøv padel i dag</a>!
       </p>
     </div>
   </div>
@@ -126,41 +120,3 @@ info:
 </div>
 
 <div class='two spacing'></div>
-<hr>
-<div class='two spacing'></div>
-
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Nyheter
-      /
-      <a href='/blog'>Les mer</a>
-    </h3>
-    <div class='spacing'></div>
-  </div>
-</div>
-<div class='row'>
-  {% for post in site.posts %}
-    {% if forloop.index > 3 %}
-      {% break %}
-    {% endif %}
-
-    <div class='large-4 medium-4 columns'>
-      <div class='mod modBlogPost no_bg simple'>
-        {% for image in post.images %}
-          {% if forloop.index > 1 %}
-            {% break %}
-          {% endif %}
-          <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
-        {% endfor %}
-        <div class='content'>
-          <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-          <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-          <p>{{post.excerpt | truncatewords: 25 }}</p>
-        </div>
-      </div>
-    </div>
-
-  {% endfor %}
-  <div class='two spacing'></div>
-</div>
